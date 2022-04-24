@@ -2,8 +2,6 @@ package homeworks;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 public class Homework16 {
     public static int countWords(String str){

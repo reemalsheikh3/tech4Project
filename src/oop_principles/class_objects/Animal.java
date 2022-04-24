@@ -10,6 +10,7 @@ public class Animal {
 
     }
 
+
     //Custom constructor that takes 6 arguments - name, color, age, isHerbivore, isCarnivore, isOmnivore
 
     public Animal(String name, String color, int age, boolean isCarnivore, boolean isHerbivore, boolean isOmnivore){
