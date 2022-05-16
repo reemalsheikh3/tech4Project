@@ -49,6 +49,8 @@ public class HashMapPractice {
         students.put(7, null);
         students.put(null, null); //replace Alex with null because same null key - size stays the same
 
+
+
         System.out.println(students.size()); // 8
         System.out.println(students); // {null=null, 1=Alona, 2=Abdullah, 3=Abdullah, 4=Data, 5=null, 6=null, 7=null}
     }
