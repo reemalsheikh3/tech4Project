@@ -87,7 +87,7 @@ public class HomeworkR4 {
         System.out.println(replaceFirstLast("Tech Global"));
         System.out.println(hasVowel("123"));
         checkAge(2030);
-        averageOfEdges(10, 13, 20);
+        System.out.println(averageOfEdges(10, 13, 20));
         String [] test = {"appium", "123", "ABC", "java"};
         System.out.println(noA(test));
         int [] test2 = {41,53,19,47,67};
